@@ -10,3 +10,7 @@ Adding yet another line
 
 hello again
 what is this
+
+testing for math: $\alpha = 1/\beta$
+
+$$ \nabla \times B = 0 $$
