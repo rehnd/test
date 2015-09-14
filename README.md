@@ -15,3 +15,6 @@ testing for math: $\alpha = 1/\beta$
 
 \[ \nabla \times B = 0 \]
 
+testing git revert
+
+Now testing git checkout
